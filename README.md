@@ -8,11 +8,11 @@ a simple kit made to quickly work with reactjs project
 
 # How to run?
 1. clone the master to your local repository
-2. Inside the cmd:
-  * npm install
-  * npm run dev 
+2. Inside the CMD/TERMINAL:
+   * npm install
+   * npm run dev 
 3. Have fun!
 
 # Contribute
-I would like to make this project much more stable with a lot of other basic feature (such as pre configured UI Framework).
+I would like to make this project much more stable with a lot of other important features (such as pre configured UI Framework).
 If you have the time and willing to help, I would be more then happy to merge your pull request.
